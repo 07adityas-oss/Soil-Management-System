@@ -1,0 +1,55 @@
+Soil Management System (MySQL DBMS Project)
+A database management mini project developed for college coursework. The Soil Management System helps store and manage soil sample information in an organised way. It maintains details such as farmer name, location, soil type, pH value, nutrient levels, moisture percentage and recommended crops.
+Project Objectives
+- Store and manage soil sample records.
+- Maintain farmer and location details.
+- Store soil pH and nutrient information.
+- Add, view, update and delete soil records.
+- Search for soil information easily.
+- Practise basic SQL queries and DBMS concepts.
+Requirements
+- MySQL 8.0 or newer.
+- MySQL Workbench or phpMyAdmin.
+- XAMPP for running the PHP project.
+- A web browser.
+Project Files
+- database.sql — creates the database, table and sample records.
+- README.md — project description and instructions.
+- PHP files — handle database operations.
+- HTML and CSS files — create the website interface.
+How to Run in MySQL Workbench
+1. Open MySQL Workbench and connect to your local MySQL server.
+2. Open the database.sql file.
+3. Click the Execute button (lightning icon).
+4. Refresh the Schemas panel.
+5. Open the soil_management database.
+6. Check the soil_records table and its data.
+How to Run in phpMyAdmin
+1. Start Apache and MySQL in XAMPP.
+2. Open http://localhost/phpmyadmin.
+3. Click the Import tab.
+4. Select the database.sql file.
+5. Click Import or Go.
+6. Open the soil_management database.
+Database Schema
+The project uses a database named soil_management.
+
+The main table is soil_records, which stores soil ID, sample code, farmer name, location, soil type, pH value, nitrogen, phosphorus, potassium, moisture percentage, recommended crop, sample date and notes.
+DBMS Concepts Used
+- Primary Key
+- Unique Constraint
+- NOT NULL Constraint
+- CHECK Constraint
+- Indexes
+- INSERT, SELECT, UPDATE and DELETE queries
+- Database creation and table management
+Project Features
+- Add new soil records.
+- View all soil records.
+- Update existing soil details.
+- Delete soil records.
+- Search soil information.
+Conclusion
+This project helped me understand how databases are created and managed using MySQL. It also gave me practical knowledge of SQL queries and CRUD operations. Through this project, I learned how to store, update, delete and retrieve soil information in an organised way.
+
+Project Name: Soil Management System (DBMS Project)
