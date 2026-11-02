@@ -1,0 +1,50 @@
+SOIL MANAGEMENT SYSTEM — REPORT OUTLINE
+
+Page/Section 01: Cover Page
+Page/Section 02: Certificate
+Page/Section 03: Declaration
+Page/Section 04: Acknowledgement
+Page/Section 05: Abstract
+Page/Section 06: Table of Contents
+Page/Section 07: List of Figures and Tables
+Page/Section 08: Chapter 1 — Introduction
+Page/Section 09: Chapter 1 — Introduction (continued)
+Page/Section 10: Chapter 2 — Problem Statement and Motivation
+Page/Section 11: Chapter 3 — Objectives and Scope
+Page/Section 12: Chapter 4 — Existing and Proposed Systems
+Page/Section 13: Chapter 5 — Feasibility Study
+Page/Section 14: Chapter 6 — Requirements Analysis
+Page/Section 15: Requirements — Data quality
+Page/Section 16: Chapter 7 — System Architecture
+Page/Section 17: Chapter 8 — Use-Case Analysis
+Page/Section 18: Chapter 9 — Data Flow and Process Design
+Page/Section 19: Chapter 10 — ER and Relational Design
+Page/Section 20: Chapter 11 — Database Schema
+Page/Section 21: Chapter 11 — Data Dictionary
+Page/Section 22: Chapter 12 — Normalization
+Page/Section 23: Chapter 12 — Integrity and Constraints
+Page/Section 24: Chapter 13 — SQL and CRUD Operations
+Page/Section 25: Chapter 13 — SQL continued
+Page/Section 26: Chapter 14 — User Interface Design
+Page/Section 27: Chapter 14 — User Interaction and Accessibility
+Page/Section 28: Chapter 15 — Implementation Details
+Page/Section 29: Chapter 15 — Implementation Details (continued)
+Page/Section 30: Chapter 16 — Validation and Error Handling
+Page/Section 31: Chapter 17 — Security Considerations
+Page/Section 32: Chapter 17 — Security and Privacy (continued)
+Page/Section 33: Chapter 18 — Testing Strategy
+Page/Section 34: Chapter 18 — Test Cases
+Page/Section 35: Chapter 19 — Results and Discussion
+Page/Section 36: Chapter 20 — Deployment Instructions
+Page/Section 37: Chapter 20 — Deployment and Troubleshooting
+Page/Section 38: Chapter 21 — Performance and Indexing
+Page/Section 39: Chapter 22 — Scalability Plan
+Page/Section 40: Chapter 22 — Scaling Further
+Page/Section 41: Chapter 23 — Limitations
+Page/Section 42: Chapter 24 — Future Enhancements
+Page/Section 43: Chapter 24 — Future Enhancements (continued)
+Page/Section 44: Chapter 25 — Conclusion
+Page/Section 45: References
+Page/Section 46: Appendix A — SQL Query Reference
+Page/Section 47: Appendix B — Viva Questions
+Page/Section 48: Appendix C — Demonstration Checklist
